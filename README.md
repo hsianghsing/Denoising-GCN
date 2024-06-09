@@ -40,3 +40,7 @@ https://github.com/leo0481/SocialLGN
 https://github.com/gusye1234/LightGCN-PyTorch
 
 https://github.com/PTMZ/IMP_GCN
+
+## 免责声明
+本代码是基于我们的研究成果提供的，可能仍然存在改进的空间。我们欢迎同行提出反馈和改进建议。如果在使用过程中发现任何问题或有任何疑问，请随时与我们联系。
+
