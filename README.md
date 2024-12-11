@@ -1,3 +1,5 @@
+由于无法访问学校服务器，这个版本是后面重新写的，我将检查之后释放代码。
+
 This is the Pytorch implementation for our paper:
 
 ## Environment Requirement
